@@ -1,0 +1,4 @@
+lfw_5590/
+*.pyc
+env/
+.env
